@@ -1,0 +1,7 @@
+En programación, una variable es un espacio en memoria que almacena un valor y puede cambiar a lo largo de la ejecución del programa. Las variables permiten manipular datos de manera eficiente y son fundamentales en cualquier lenguaje de programación.
+Cada variable tiene un tipo de dato, que define qué clase de información puede almacenar. Los tipos de datos más comunes incluyen:
+•	Enteros (int): números sin decimales, como 10 o -5.
+•	Flotantes (float): números con decimales, como 3.14 o -0.01.
+•	Cadenas de texto (string): secuencias de caracteres, como "Hola, mundo".
+•	Booleanos (bool): valores de verdadero o falso (true/false).
+En lenguajes como Python, las variables no requieren una declaración explícita de tipo, ya que el lenguaje lo infiere automáticamente. En otros, como Java o C++, es necesario especificar el tipo al declarar la variable.
