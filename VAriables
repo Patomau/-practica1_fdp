@@ -4,4 +4,10 @@ Cada variable tiene un tipo de dato, que define qué clase de información puede
 •	Flotantes (float): números con decimales, como 3.14 o -0.01.
 •	Cadenas de texto (string): secuencias de caracteres, como "Hola, mundo".
 •	Booleanos (bool): valores de verdadero o falso (true/false).
-En lenguajes como Python, las variables no requieren una declaración explícita de tipo, ya que el lenguaje lo infiere automáticamente. En otros, como Java o C++, es necesario especificar el tipo al declarar la variable.
+En lenguajes como Python, las variables no requieren una declaración explícita de tipo, ya que el lenguaje lo infiere automáticamente. En otros, como Java o C++, es necesario especificar el tipo al declarar la Los nombres de variables deben seguir ciertas reglas:
+Deben comenzar con una letra o un guion bajo y no pueden contener espacios.
+No pueden ser palabras reservadas del lenguaje.
+Se recomienda usar convenciones como camelCase (miVariable) en JavaScript o Java, o snake_case (mi_variable) en Python.
+Las variables pueden clasificarse según su alcance:
+	•	Locales: Solo existen dentro de la función o bloque donde fueron declaradas.
+	•	Globales: Pueden ser accedidas desde cualquier parte del programa, aunque su uso debe manejarse con cuidado para evitar errores.
